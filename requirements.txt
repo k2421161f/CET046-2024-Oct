@@ -1,0 +1,5 @@
+#pip installs will be stored here
+flask
+gunicorn
+#hosting = AWS. ACTP in AWS. However, now need to pay for AWS. Thus, we are using render now, it looks 80% the same as AWS. 
+
